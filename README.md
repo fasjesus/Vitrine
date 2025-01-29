@@ -1,0 +1,1 @@
+Esse projeto é um app Mobile que busca aproveitar a API backend criada na disciplina de WEB em 2024.2 e também o frontend utilizado nessa aplicação, adaptando-o para a versão Mobile.
