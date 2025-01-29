@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj": {}
+    "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj": {
+    "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
+        "projectUniqueName": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
         "projectName": "UescColcicAPI.Core",
-        "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
+        "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
         "packagesPath": "C:\\Users\\fdpc0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\obj\\",
+        "outputPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fdpc0\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj": {
+    "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj",
+        "projectUniqueName": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj",
         "projectName": "UescColcicAPI.Services",
-        "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj",
+        "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Service\\UescColcicAPI.Services.csproj",
         "packagesPath": "C:\\Users\\fdpc0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Service\\obj\\",
+        "outputPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fdpc0\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj": {
-                "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj"
+              "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj"
               }
             }
           }

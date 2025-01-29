@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
+      "projectUniqueName": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
       "projectName": "UescColcicAPI.Core",
-      "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
+      "projectPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\UescColcicAPI.Core.csproj",
       "packagesPath": "C:\\Users\\fdpc0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI.Core\\obj\\",
+      "outputPath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fdpc0\\AppData\\Roaming\\NuGet\\NuGet.Config"

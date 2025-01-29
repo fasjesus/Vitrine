@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "39ucDq9KpUM=",
+  "dgSpecHash": "JhkaXRsxGTA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend-project-uti\\backend\\UescColcicAPI\\UescColcicAPI.csproj",
+  "projectFilePath": "C:\\Users\\fdpc0\\OneDrive\\Área de Trabalho\\uesclem\\2024.2\\Vitrine\\backend\\UescColcicAPI\\UescColcicAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fdpc0\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\fdpc0\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
