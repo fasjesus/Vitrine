@@ -1,0 +1,12 @@
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\bin\Debug\net8.0\UescColcicAPI.Core.deps.json
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\bin\Debug\net8.0\UescColcicAPI.Core.dll
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\bin\Debug\net8.0\UescColcicAPI.Core.pdb
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.AssemblyInfoInputs.cache
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.AssemblyInfo.cs
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.sourcelink.json
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.dll
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\refint\UescColcicAPI.Core.dll
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\UescColcicAPI.Core.pdb
+C:\Users\fdpc0\OneDrive\Área de Trabalho\uesclem\2024.2\Vitrine\backend\UescColcicAPI.Core\obj\Debug\net8.0\ref\UescColcicAPI.Core.dll
